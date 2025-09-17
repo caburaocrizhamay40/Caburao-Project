@@ -12,16 +12,15 @@ header{
 }
 
 header{
-  background-color: pink(1,1,1,1.5);
-  color: rgb(168, 230, 149);
+  background-color: pink(0,0,0,1.5);
+  color: rgb(95, 240, 139);
   padding: 10px 0;
   text: align 0;
-
 
 }
 
 nav a{
-  color: lightpink;
+  color: rgb(16, 206, 240);
   text-decoration: none;
   margin:0 15px;
   font-size: 18px;
@@ -33,16 +32,17 @@ nav a:hover{
 
 }
 
+
 h1{
-  text: align 0;;
-  color: white;
+  text: align 0;
+  color: rgb(138, 25, 123);
   margin-top: 50px;
 
 }
 
 p{
   text: align 1px;;
-  color: white;
+  color: rgb(255, 254, 254);
   font-size: 20px;
 
 }
