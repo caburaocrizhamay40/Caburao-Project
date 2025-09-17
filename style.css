@@ -4,15 +4,14 @@ body{
 }
 
 header{
-    background-color: aquamarine;
+    background-color: rgb(142, 223, 196);
     padding: 20px;
     text-align: center;
     border: 5px solid rgb(150, 72, 228);
     border: 5px;
     border-radius: 5px;
     margin-bottom: 45px;
-    background-image: url("c:\Users\Student\Documents\ATM\crizha pink backgroud.jpg!w700wp");
-
+    background-image: url("");
     background-repeat: no-repeat;
     background-size: 190px 500px;
 }
